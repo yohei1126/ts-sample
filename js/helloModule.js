@@ -16,16 +16,4 @@
         return Hello;
     }());
     exports.Hello = Hello;
-    var Word = (function () {
-        function Word() {
-        }
-        Word.prototype.setWord = function (word) {
-            this.word = word;
-        };
-        Word.prototype.getWord = function () {
-            return this.word;
-        };
-        return Word;
-    }());
-    exports.Word = Word;
 });

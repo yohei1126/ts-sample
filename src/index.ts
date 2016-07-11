@@ -1,4 +1,5 @@
-import {Hello, Word} from './helloModule';
+import {Hello} from './helloModule';
+import {Word} from './wordModule';
 
 Hello.say();
 

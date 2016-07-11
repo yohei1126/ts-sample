@@ -7,6 +7,7 @@
   },
   "files": [
     "./src/helloModule.ts",
+    "./src/wordModule.ts",
     "./src/index.ts"
   ]
 }
