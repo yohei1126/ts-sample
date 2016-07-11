@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "target": "ES5",
+    "noImplicitAny": true,
+    "outDir": "./js"
+  },
+  "files": [
+    "./src/helloModule.ts",
+    "./src/index.ts"
+  ]
+}
